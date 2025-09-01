@@ -7,7 +7,7 @@
 
 ## 📌 About Me  
 
-🔹  Studying Statistics at *Mawlana Bhashani Science and Technology University*.  
+🔹  Studying Statistics at **Mawlana Bhashani Science and Technology University**.  
 🔹  Passionate about **Data Science, Machine Learning, and Research**.  
 🔹  Hands-on with **Python (EDA), Power BI, Excel, SPSS, and basic R**.  
 🔹  Currently transitioning from **Data Analyst → Data Scientist**.  
