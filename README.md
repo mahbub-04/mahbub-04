@@ -1,52 +1,69 @@
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋+I'm+a+Data+Science+Enthusiast;Turning+Data+into+Insights;Lifelong+Learner+%26+Problem+Solver)](https://git.io/typing-svg)
+<!-- Typing animation header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mahbub+👋;Undergraduate+Statistics+Student;Data+Science+%7C+Machine+Learning+Enthusiast;Future+Data+Scientist+%7C+Researcher" alt="Typing Animation" />
+</h1>
 
 ---
 
-## 👨‍💻 About Me
-- 🔭 Currently diving into **Machine Learning & Deep Learning**  
-- 🌱 Learning **NLP, Computer Vision, and MLOps**  
-- 👯 Open to collaborate on **AI & Data Science projects**  
-- 💡 Passionate about **data storytelling & visualization**  
-- ⚡ Fun fact: I love solving puzzles with **Python & coffee ☕**  
+## 📌 About Me  
+
+- 🎓 Studying Statistics at *[Your University Name]* (Expected Graduation: YYYY)  
+- 🔎 Passionate about **Data Science, Machine Learning, and Applied Statistics**  
+- 📊 Hands-on with **Python (EDA), Power BI, Excel, SPSS, and basic R**  
+- 🌱 Currently transitioning from **Data Analyst → Data Scientist**  
+- 🧪 Exploring applications of **data-driven methods** in **public health & agriculture**  
+- ✍️ Working towards my **first research publication** in machine learning methods  
 
 ---
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## 📊 Featured Projects  
+
+Here are some projects I’ve worked on (links coming soon):  
+
+- **🔹 Python EDA Project**  
+  *Performed exploratory data analysis on real-world datasets using Python, pandas, and matplotlib to uncover trends and insights.*  
+
+- **🔹 Power BI Dashboard**  
+  *Designed interactive dashboards to visualize business KPIs and decision-making metrics.*  
+
+- **🔹 Excel Analytics Project**  
+  *Built advanced Excel models for data cleaning, trend analysis, and visualization.*  
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight)  
+## 📖 Research & Publications  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=dark&hide_border=true)  
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUserName&theme=react-dark)  
+- **Research Interests:** Public Health | Agriculture | Machine Learning  
+- 📄 *Upcoming:* First research paper in **data-driven statistical methods** (will update link upon publication)  
 
 ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/YourUserName/YourUserName/blob/output/github-contribution-grid-snake.svg)
+## 🛠️ Skills  
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/SPSS-003366?style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
+## 📬 Connect with Me  
+
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.researchgate.net/profile/your-researchgate"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
+</p>
 
 ---
 
-⭐️ From [YourUserName](https://github.com/YourUserName)
+## 🚀 Vision  
+
+I aim to grow from a **Data Analyst into a Data Scientist**, applying **statistical learning and machine intelligence** to solve **real-world problems** in **public health, agriculture, and beyond**.  
+
+---
