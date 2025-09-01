@@ -7,12 +7,12 @@
 
 ## 📌 About Me  
 
-- 🎓 Studying Statistics at *Mawlana Bhashani Science and Technology University*.  
-- 🔎 Passionate about **Data Science, Machine Learning, and Research**.  
-- 📊 Hands-on with **Python (EDA), Power BI, Excel, SPSS, and basic R**.  
-- 🌱 Currently transitioning from **Data Analyst → Data Scientist**.  
-- 🧪 Exploring applications of **data-driven methods** in **public health & agriculture**.  
-- ✍️ Working towards my **first research publication** in machine learning methods.
+-  Studying Statistics at *Mawlana Bhashani Science and Technology University*.  
+-  Passionate about **Data Science, Machine Learning, and Research**.  
+-  Hands-on with **Python (EDA), Power BI, Excel, SPSS, and basic R**.  
+-  Currently transitioning from **Data Analyst → Data Scientist**.  
+-  Exploring applications of **data-driven methods** in **public health & agriculture**.  
+-  Working towards my **first research publication** in machine learning methods.
 
 ---
 
