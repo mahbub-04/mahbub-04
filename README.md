@@ -7,12 +7,12 @@
 
 ## 📌 About Me  
 
-- 🎓 Studying Statistics at *[Your University Name]* (Expected Graduation: YYYY)  
-- 🔎 Passionate about **Data Science, Machine Learning, and Applied Statistics**  
-- 📊 Hands-on with **Python (EDA), Power BI, Excel, SPSS, and basic R**  
-- 🌱 Currently transitioning from **Data Analyst → Data Scientist**  
-- 🧪 Exploring applications of **data-driven methods** in **public health & agriculture**  
-- ✍️ Working towards my **first research publication** in machine learning methods  
+- 🎓 Studying Statistics at *Mawlana Bhashani Science and Technology University*.  
+- 🔎 Passionate about **Data Science, Machine Learning, and Research**.  
+- 📊 Hands-on with **Python (EDA), Power BI, Excel, SPSS, and basic R**.  
+- 🌱 Currently transitioning from **Data Analyst → Data Scientist**.  
+- 🧪 Exploring applications of **data-driven methods** in **public health & agriculture**.  
+- ✍️ Working towards my **first research publication** in machine learning methods.
 
 ---
 
@@ -55,15 +55,15 @@ Here are some projects I’ve worked on (links coming soon):
 ## 📬 Connect with Me  
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.researchgate.net/profile/your-researchgate"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
+  <a href="mailto:mash12mahbub@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/md-mahbub-ur-rashid-6406572ba"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.researchgate.net/profile/your-researchgate](https://www.researchgate.net/profile/Md-Ur-Rashid-2?ev=hdr_xprf)"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🚀 Vision  
 
-I aim to grow from a **Data Analyst into a Data Scientist**, applying **statistical learning and machine intelligence** to solve **real-world problems** in **public health, agriculture, and beyond**.  
+I aim to grow from a **Data Analyst into a Data Scientist**, applying **statistical learning and machine intelligence** to solve **real-world problems** in **business, public health, agriculture, and beyond**.  
 
 ---
