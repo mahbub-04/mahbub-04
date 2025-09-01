@@ -1,18 +1,18 @@
 <!-- Typing animation header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mahbub+👋;Undergraduate+Statistics+Student;Data+Science+%7C+Machine+Learning+Enthusiast;Future+Data+Scientist+%7C+Researcher" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=eb5e28&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mahbub+👋;Undergraduate+Statistics+Student;Data+Science+%7C+Machine+Learning+Enthusiast;Future+Data+Scientist+%7C+Researcher" alt="Typing Animation" />
 </h1>
 
 ---
 
 ## 📌 About Me  
 
--  Studying Statistics at *Mawlana Bhashani Science and Technology University*.  
--  Passionate about **Data Science, Machine Learning, and Research**.  
--  Hands-on with **Python (EDA), Power BI, Excel, SPSS, and basic R**.  
--  Currently transitioning from **Data Analyst → Data Scientist**.  
--  Exploring applications of **data-driven methods** in **public health & agriculture**.  
--  Working towards my **first research publication** in machine learning methods.
+🔹  Studying Statistics at *Mawlana Bhashani Science and Technology University*.  
+🔹  Passionate about **Data Science, Machine Learning, and Research**.  
+🔹  Hands-on with **Python (EDA), Power BI, Excel, SPSS, and basic R**.  
+🔹  Currently transitioning from **Data Analyst → Data Scientist**.  
+🔹  Exploring applications of **data-driven methods** in **public health & agriculture**.  
+🔹  Working towards my **first research publication** in machine learning methods.
 
 ---
 
@@ -20,21 +20,21 @@
 
 Here are some projects I’ve worked on (links coming soon):  
 
-- **🔹 Python EDA Project**  
-  *Performed exploratory data analysis on real-world datasets using Python, pandas, and matplotlib to uncover trends and insights.*  
+**🔹 Python EDA Project**  
+     *Performed exploratory data analysis on real-world datasets using Python, pandas, and matplotlib to uncover trends and insights.*  
 
-- **🔹 Power BI Dashboard**  
-  *Designed interactive dashboards to visualize business KPIs and decision-making metrics.*  
+**🔹 Power BI Dashboard**  
+     *Designed interactive dashboards to visualize business KPIs and decision-making metrics.*  
 
-- **🔹 Excel Analytics Project**  
-  *Built advanced Excel models for data cleaning, trend analysis, and visualization.*  
+**🔹 Excel Analytics Project**  
+     *Built advanced Excel models for data cleaning, trend analysis, and visualization.*  
 
 ---
 
 ## 📖 Research & Publications  
 
 - **Research Interests:** Public Health | Agriculture | Machine Learning  
-- 📄 *Upcoming:* First research paper in **data-driven statistical methods** (will update link upon publication)  
+ 📄 *Upcoming:* First research paper in **data-driven statistical methods** (will update link upon publication)  
 
 ---
 
