@@ -9,31 +9,17 @@
 
 🔹  Studying Statistics at **Mawlana Bhashani Science and Technology University**.  
 🔹  Passionate about **Data Science, Machine Learning, and Research**.  
-🔹  Hands-on with **Python (EDA), Power BI, Excel, SPSS, and basic R**.  
+🔹  Hands-on with **Python (EDA),SQL, Power BI, Excel, SPSS, and basic R**.  
 🔹  Currently transitioning from **Data Analyst → Data Scientist**.  
 🔹  Exploring applications of **data-driven methods** in **public health & agriculture**.  
 🔹  Working towards my **first research publication** in machine learning methods.
-
----
-
-## 📊 Featured Projects  
-
-Here are some projects I’ve worked on (links coming soon):  
-
-**🔹 Python EDA Project**  
-     *Performed exploratory data analysis on real-world datasets using Python, pandas, and matplotlib to uncover trends and insights.*  
-
-**🔹 Power BI Dashboard**  
-     *Designed interactive dashboards to visualize business KPIs and decision-making metrics.*  
-
-**🔹 Excel Analytics Project**  
-     *Built advanced Excel models for data cleaning, trend analysis, and visualization.*  
+  
 
 ---
 
 ## 📖 Research & Publications  
 
-- **Research Interests:** Public Health | Agriculture | Machine Learning  
+- **Research Interests:** Public Health | Machine Learning  
  📄 *Upcoming:* First research paper in **data-driven statistical methods** (will update link upon publication)  
 
 ---
